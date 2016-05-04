@@ -12,7 +12,7 @@ Specialist areas of knowledge include: health informatics, electronic medical re
 
 ### More Information
 
-I might add something else later. Maybe...
+I presently work for the NHS Wales Informatics Service as an Application Design Architect. I support the National Applications Design Team responsible for the design, on-going refinement and evolution of National Applications and their interoperability as defined by the NHW Wales Applications Strategy. 
 
 ### Contact me
 

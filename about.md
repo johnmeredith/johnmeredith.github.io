@@ -16,4 +16,4 @@ I presently work for the NHS Wales Informatics Service as an Application Design 
 
 ### Contact me
 
-[You can contact me via Twitter](http://www,twitter.com/johnmeredith)
+[You can contact me via Twitter](https://www.twitter.com/johnmeredith)

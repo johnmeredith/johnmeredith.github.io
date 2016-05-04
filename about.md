@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I am a Health Informatics professional with 11 years’ experience working in the NHS. During this time I have completed a Master’s Degree in Health Informatics, and continued professional development through IT Service Management (ITIL) qualifications. Presently I am studying for TOGAF certification.
+
+My Master’s research provided an opportunity to publish a paper focussing on system usability and this research gave me a first-hand account of proving the benefits that correctly architected software can provide clinicians. I work with an anaesthetics informatics researchers affiliated with Cardiff University focussed on emerging technologies.
+
+Specialist areas of knowledge include: health informatics, electronic medical records, theatre systems, EPR, Maternity information systems, data visualisation, business analysis and system architecture.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I might add something else later. Maybe...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[You can contact me via Twitter](http://www,twitter.com/johnmeredith)
